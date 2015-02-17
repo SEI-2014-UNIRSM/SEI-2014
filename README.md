@@ -5,6 +5,8 @@ Generative design e strumenti di disegno, corso SEI 2014 @ UnirSM — http://goo
 [Daniele Tabellini @ Fupete](https://github.com/Fupete) — docente a contratto / adjunt professor   
 [Pietro Spagnolo](https://github.com/calzinispaiati) — assistente / assistant
 
+*CLASS REPOSITORY > [https://github.com/SEI2014-UnirSM](https://github.com/SEI2014-UnirSM)
+
 Programma
 ---------
 Introduzione all’uso espressivo del codice, storie, linguaggi e metodi.
