@@ -1,7 +1,7 @@
 ARCHIVED
 --------
-Class final repositories: [https://github.com/SEI2014-UnirSM](https://github.com/SEI2014-UnirSM)
-Blog post: [http://www.fupete.com/research/generative-design-drawing/](http://www.fupete.com/research/generative-design-drawing/)
+— Class final repositories: [https://github.com/SEI2014-UnirSM](https://github.com/SEI2014-UnirSM)
+— Blog post: [http://www.fupete.com/research/generative-design-drawing/](http://www.fupete.com/research/generative-design-drawing/)
 
 SEI2014 - UnirSM
 ========
