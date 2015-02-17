@@ -1,11 +1,14 @@
+ARCHIVED
+--------
+Class final repositories: [https://github.com/SEI2014-UnirSM](https://github.com/SEI2014-UnirSM)
+Blog post: [http://www.fupete.com/research/generative-design-drawing/](http://www.fupete.com/research/generative-design-drawing/)
+
 SEI2014 - UnirSM
 ========
 Generative design e strumenti di disegno, corso SEI 2014 @ UnirSM — http://goo.gl/59obuO
 
 [Daniele Tabellini @ Fupete](https://github.com/Fupete) — docente a contratto / adjunt professor   
 [Pietro Spagnolo](https://github.com/calzinispaiati) — assistente / assistant
-
-*CLASS REPOSITORY > [https://github.com/SEI2014-UnirSM](https://github.com/SEI2014-UnirSM)
 
 Programma
 ---------
