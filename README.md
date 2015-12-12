@@ -1,5 +1,5 @@
 *ARCHIVED*
-You can browse [class final repositories](https://github.com/SEI2014-UnirSM) and  [recap blog post (+videos)](http://www.fupete.com/research/generative-design-drawing/)
+You can browse [class final repositories](https://github.com/SEI-2014-UNIRSM) and  [recap blog post (+videos)](http://www.fupete.com/research/generative-design-drawing/)
 
 SEI2014 - UnirSM
 ========
